@@ -1,0 +1,15 @@
+country,name,url,year_start,league_type,fixtures_url
+England,Premier-League,https://www.football-data.co.uk/mmz4281/{}/E0.csv,2012,main,https://footystats.org/england/premier-league/fixtures
+England,Championship,https://www.football-data.co.uk/mmz4281/{}/E1.csv,2012,main,
+England,League-1,https://www.football-data.co.uk/mmz4281/{}/E2.csv,2012,main,
+England,League-2,https://www.football-data.co.uk/mmz4281/{}/E3.csv,2012,main,
+France,Ligue-1,https://www.football-data.co.uk/mmz4281/{}/F1.csv,2012,main,https://footystats.org/france/ligue-1/fixtures
+France,Ligue-2,https://www.football-data.co.uk/mmz4281/{}/F2.csv,2012,main,
+Germany,Bundesliga-1,https://www.football-data.co.uk/mmz4281/{}/D1.csv,2012,main,https://footystats.org/germany/bundesliga/fixtures
+Germany,Bundesliga-2,https://www.football-data.co.uk/mmz4281/{}/D2.csv,2012,main,
+Italy,Serie-A,https://www.football-data.co.uk/mmz4281/{}/I1.csv,2012,main,https://footystats.org/italy/serie-a/fixtures
+Italy,Serie-B,https://www.football-data.co.uk/mmz4281/{}/I2.csv,2012,main,
+Netherlands,Eredivisie,https://www.football-data.co.uk/mmz4281/{}/N1.csv,2012,main,https://footystats.org/netherlands/eredivisie/fixtures
+Portugal,Liga-I,https://www.football-data.co.uk/mmz4281/{}/P1.csv,2012,main,https://footystats.org/portugal/liga-nos/fixtures
+Spain,La-Liga,https://www.football-data.co.uk/mmz4281/{}/SP1.csv,2012,main,https://footystats.org/spain/la-liga/fixtures
+Spain,La-Liga-2,https://www.football-data.co.uk/mmz4281/{}/SP2.csv,2012,main,

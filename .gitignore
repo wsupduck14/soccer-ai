@@ -1,2 +1,4 @@
+!available_leagues.csv
 __pycache__
 *.ipynb
+*.parquet
