@@ -11,7 +11,7 @@ def main() -> tuple[pd.DataFrame, pd.DataFrame]:
 
     season_starts = range(2018, 2024)
     # season_starts = [2012]
-    leagues = ['PL', 'ELC', 'FL1', 'BL1', 'SA', 'DED', 'PP:', 'PD', 'CL', 'EC',]
+    leagues = ['PL', 'ELC', 'FL1', 'BL1', 'SA', 'DED', 'PPL', 'PD', 'CL', 'EC',]
     # leagues = ['PL']
     failed_requests = pd.DataFrame()
 
